@@ -18,9 +18,12 @@
 
 #### Executando 
 • Entre no diretorio raiz do projeto (/A5SolutionsApiLocadora/godzillaLocalFilmes)
+
 • Execute em um bash os seguintes comandos:
+
    "mvn clean install" para buildar o Projeto.
-   "mvn spring-boot:run" para executar o projeto.
+   "cd target/" pois agora foi gerado um executável do projeto para ser utilizado
+   "java -jar godzillaLocalFilmes-0.0.1-SNAPSHOT.jar" para executar o .jar
 
 #### Acessando endpoints 
 1. localhost:8080/usuario
