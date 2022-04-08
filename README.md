@@ -22,7 +22,9 @@
 • Execute em um bash os seguintes comandos:
 
    "mvn clean install" para buildar o Projeto.
+   
    "cd target/" pois agora foi gerado um executável do projeto para ser utilizado
+   
    "java -jar godzillaLocalFilmes-0.0.1-SNAPSHOT.jar" para executar o .jar
 
 #### Acessando endpoints 
