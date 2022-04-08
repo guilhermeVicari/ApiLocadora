@@ -5,11 +5,15 @@
 
 #### Pré-requisitos:
 • Ter a jdk 8 instalada no computador.
+
   link para download da jdk8: https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.html
+  
   após instalado execute "java -version" no seu bash para conferir se está instalado corretamente.
 
 • Tenha Maven intalado na máquina.
+
   link para download do maven: https://maven.apache.org/download.cgi
+  
   após instalado execute "mvn -version" no seu bash para conferir se está instalado corretamente.
 
 #### Executando 
